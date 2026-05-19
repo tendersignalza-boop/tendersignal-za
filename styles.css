@@ -411,6 +411,10 @@ dd {
   font-size: 0.9rem;
 }
 
+.hidden-field {
+  display: none;
+}
+
 .footer {
   display: flex;
   flex-wrap: wrap;
